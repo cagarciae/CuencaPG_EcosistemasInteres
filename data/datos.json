@@ -1,7 +1,8 @@
 [
  {
   "id": 883700711,
-  "foto": "fotos/883700711.jpg",
+  "nombre": "VL-20261001-1245",
+  "foto": "fotos/vl-20261001-1245.jpg",
   "descripcion": "",
   "fecha": "2026-10-01T15:38:38",
   "lat": -24.467,
@@ -9,7 +10,8 @@
  },
  {
   "id": 883700055,
-  "foto": "fotos/883700055.jpg",
+  "nombre": "LPG-20261001-1245",
+  "foto": "fotos/lpg-20261001-1245.jpg",
   "descripcion": "",
   "fecha": "2026-10-01T15:37:51",
   "lat": -24.467,
